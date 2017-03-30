@@ -1,5 +1,5 @@
 # DynamicForms
-A small demo of dynamic rendering forms, created at an Angular IL meetup session. 
+A  demo of dynamic forms. 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli).
 
 ## Development server
